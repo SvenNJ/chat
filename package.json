@@ -1,0 +1,25 @@
+{
+  "name": "user-chat",
+  "description": "a realtime chat web application",
+  "version": "0.0.2",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.13.1",
+    "socket.io": "1.3.6"
+  },
+  "engines": {
+    "node": "0.12.7",
+    "npm": "2.11.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "socketio",
+    "chat"
+  ],
+  "author": "SvenLiu",
+  "license": "ISC"
+}
